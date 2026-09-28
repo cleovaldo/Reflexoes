@@ -1,0 +1,6 @@
+{
+  "name": "Palavra Viva - Devocionais em Áudio Diários",
+  "description": "Plataforma mobile-first para envio e reprodução diária de áudios de reflexão bíblica com curtidas, compartilhamento rápido, integração GitHub CI/CD, Cloud Storage e inspiração de Billy Graham.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
